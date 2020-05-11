@@ -102,12 +102,6 @@ description: Building infrastructure for the new decentralized world
 			<div class="small-12 large-8 medium-10 medium-centered cell s-ws-top">
 				<div class="grid-x grid-padding-x">
 					<div class="medium-3 small-12 cell m-ws-bottom">
-						<!-- <img src="{{site.url}}/assets/img/leaf.png" class="xs-ws-bottom"> -->
-						<div class="bkc bold">FOAMViz</div>
-						<div class="s">Visualization efforts over FOAM's Token Curated Registry's data</div>
-						<a class="ibtn s2" href="https://foamviz.surge.sh/" target="_blank">View Project</a>
-					</div>
-					<div class="medium-3 small-12 cell m-ws-bottom">
 						<!-- <img src="{{site.url}}/assets/img/link.png" class="xs-ws-bottom"> -->
 						<div class="bkc bold">PolkaViz</div>
 						<div class="s">Visualization efforts for the Polkadot ecosystem. Currently visualizing action on the Kusama network.</div>
@@ -125,6 +119,12 @@ description: Building infrastructure for the new decentralized world
 						<div class="s">A healthcheck + monitoring dashboard for the Zcash community.</div>
 						<a class="ibtn s2" href="https://www.zcashservicestatus.info/" target="_blank">View Project</a>
 					</div>
+          <div class="medium-3 small-12 cell m-ws-bottom">
+						<!-- <img src="{{site.url}}/assets/img/leaf.png" class="xs-ws-bottom"> -->
+						<div class="bkc bold">Livepeer Pricing Tool</div>
+						<div class="s">A tool for enhancing the price visibility in livepeer ecosystem.</div>
+						<a class="ibtn s2" href="https://github.com/buidl-labs/livepeer-pricing-tool" target="_blank">View Project</a>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -140,11 +140,21 @@ description: Building infrastructure for the new decentralized world
 		<div class="grid-x align-center">
 			<div class="small-12 large-8 medium-8 medium-centered cell s-ws-top">
 				<div class="grid-x grid-padding-x">
-					<div class="medium-6 small-12 cell m-ws-bottom">
+					<div class="medium-4 small-12 cell m-ws-bottom">
+						<!-- <img src="{{site.url}}/assets/img/reload.png" class="xs-ws-bottom"> -->
+						<div class="bkc bold">Crypto Plants vs Zombies | Code School</div>
+						<div class="s">Interactive Code School for onboarding newcomers to the Tezos Ecosystem</div>
+						<a class="ibtn s2" href="https://cryptocodeschool.in/tezos" target="_blank">View Product</a>
+					</div>
+          <div class="medium-4 small-12 cell m-ws-bottom">
 						<!-- <img src="{{site.url}}/assets/img/reload.png" class="xs-ws-bottom"> -->
 						<div class="bkc bold">YieldScan</div>
 						<div class="s">Aiming to provide high integrity & structured info for @polkadotnetwork. Combines visual analytics + rewards calculation under one hood.</div>
 						<a class="ibtn s2" href="https://polkanalytics.com/#/dashboard" target="_blank">View Product</a>
+					</div><div class="medium-4 small-12 cell m-ws-bottom">
+						<div class="bkc bold">FOAMViz</div>
+						<div class="s">Visualization efforts over FOAM's Token Curated Registry's data</div>
+						<a class="ibtn s2" href="https://foamviz.surge.sh/" target="_blank">View Project</a>
 					</div>
 				</div>
 			</div>
