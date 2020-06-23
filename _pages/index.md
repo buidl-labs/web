@@ -56,22 +56,30 @@ description: Building infrastructure for the new decentralized world
 			</div>
 		</div>
 		<div class="grid-x align-center">
-			<div class="small-12 large-centered large-8 medium-10 cell cell m-ws-bottom">
-				<div class="grid-x small-up-5 medium-up-5 large-up-5">
-					<div class="cell cell-block text-center">
-						<img src="{{site.url}}/assets/img/logo/eth.png" class=" img-p s-ws-top">
+			<div class="small-12 large-centered large-10 medium-10 cell cell m-ws-bottom">
+				<div class="grid-x small-up-6 medium-up-6 large-up-6">
+					<div class="cell cell-block text-center align-self-middle">
+						<img src="{{site.url}}/assets/img/logo/eth.png" class="img-p s-ws-top">
 					</div>
 					<div class="cell cell-block">
-						<img src="{{site.url}}/assets/img/logo/polka.svg" class="b-ws-top ">
+						<img src="{{site.url}}/assets/img/logo/polka.svg" class="show-for-small-only m-ws-top">
+						<img src="{{site.url}}/assets/img/logo/polka.svg" class="show-for-medium b-ws-top">
 					</div>
 					<div class="cell cell-block text-center">
-						<img src="{{site.url}}/assets/img/logo/foam.png" class="img-h m-ws-top ">
+						<img src="{{site.url}}/assets/img/logo/tezos.jpg" class="show-for-small-only img-p m-ws-top">
+						<img src="{{site.url}}/assets/img/logo/tezos.jpg" class="show-for-medium img-p b-ws-top">
 					</div>
 					<div class="cell cell-block">
-						<img src="{{site.url}}/assets/img/logo/zcash.png" class="m-ws-top ">
+						<img src="{{site.url}}/assets/img/logo/zcash.png" class="show-for-small-only img-p s-ws-top" style="margin-top: 1.6em">
+						<img src="{{site.url}}/assets/img/logo/zcash.png" class="show-for-medium img-p m-ws-top">
 					</div>
 					<div class="cell cell-block text-center">
-						<img src="{{site.url}}/assets/img/logo/tezos.jpg" class="img-h m-ws-top ">
+						<img src="{{site.url}}/assets/img/logo/livepeer.svg" class="show-for-small-only m-ws-top ">
+						<img src="{{site.url}}/assets/img/logo/livepeer.svg" class="show-for-medium b-ws-top ">
+					</div>
+					<div class="cell cell-block">
+						<img src="{{site.url}}/assets/img/logo/foam.png" class="show-for-small-only img-h s-ws-top " style="margin-top: 1.5em">
+						<img src="{{site.url}}/assets/img/logo/foam.png" class="show-for-medium img-h m-ws-top ">
 					</div>
 				</div>
 			</div>
@@ -101,29 +109,38 @@ description: Building infrastructure for the new decentralized world
 		<div class="grid-x align-center">
 			<div class="small-12 large-8 medium-10 medium-centered cell s-ws-top">
 				<div class="grid-x grid-padding-x">
-					<div class="medium-3 small-12 cell m-ws-bottom">
-						<!-- <img src="{{site.url}}/assets/img/link.png" class="xs-ws-bottom"> -->
+					<!-- <div class="medium-3 small-12 cell m-ws-bottom">
+						<img src="{{site.url}}/assets/img/link.png" class="xs-ws-bottom">
 						<div class="bkc bold">PolkaViz</div>
 						<div class="s">Visualization efforts for the Polkadot ecosystem. Currently visualizing action on the Kusama network.</div>
 						<a href="https://polkavizproject.surge.sh/" target="_blank" class="ibtn s2">view project</a>
-					</div>
-					<div class="medium-3 small-12 cell m-ws-bottom">
-						<!-- <img src="{{site.url}}/assets/img/reload.png" class="xs-ws-bottom"> -->
+					</div> -->
+					<!-- <div class="medium-3 small-12 cell m-ws-bottom">
+						<img src="{{site.url}}/assets/img/reload.png" class="xs-ws-bottom"> 
 						<div class="bkc bold">Polkabot</div>
 						<div class="s">Relaying Polkadot protocol updates on Twitter.</div>
 						<a class="ibtn s2" href="https://twitter.com/Polkabot5" target="_blank">View Project</a>
-					</div>
+					</div> -->
 					<div class="medium-3 small-12 cell m-ws-bottom">
-						<!-- <img src="{{site.url}}/assets/img/learning.png" class="xs-ws-bottom"> -->
 						<div class="bkc bold">Zcash SSD</div>
 						<div class="s">A healthcheck + monitoring dashboard for the Zcash community.</div>
 						<a class="ibtn s2" href="https://www.zcashservicestatus.info/" target="_blank">View Project</a>
 					</div>
-          <div class="medium-3 small-12 cell m-ws-bottom">
+         			<div class="medium-3 small-12 cell m-ws-bottom">
 						<!-- <img src="{{site.url}}/assets/img/leaf.png" class="xs-ws-bottom"> -->
 						<div class="bkc bold">Livepeer Pricing Tool</div>
-						<div class="s">A tool for enhancing the price visibility in livepeer ecosystem.</div>
-						<a class="ibtn s2" href="https://github.com/buidl-labs/livepeer-pricing-tool" target="_blank">View Project</a>
+						<div class="s">A tool for enhancing the price visibility in Livepeer ecosystem.</div>
+						<a class="ibtn s2" href="https://livepeer-pricingtool.surge.sh/" target="_blank">View Project</a>
+					</div>
+					<div class="medium-3 small-12 cell m-ws-bottom">
+						<div class="bkc bold">FOAMViz</div>
+						<div class="s">Visualization efforts over FOAM's token curated registry's data.</div>
+						<a class="ibtn s2" href="https://foamviz.surge.sh/" target="_blank">View Project</a>
+					</div>
+					<div class="medium-3 small-12 cell m-ws-bottom">
+						<div class="bkc bold">Polkadot Parachains Indexer</div>
+						<div class="s">Data indexer and API for parachains inside Polkadot ecosystem.</div>
+						<a class="ibtn s2" href="https://foamviz.surge.sh/" target="_blank">View Project</a>
 					</div>
 				</div>
 			</div>
@@ -140,21 +157,17 @@ description: Building infrastructure for the new decentralized world
 		<div class="grid-x align-center">
 			<div class="small-12 large-8 medium-8 medium-centered cell s-ws-top">
 				<div class="grid-x grid-padding-x">
-					<div class="medium-4 small-12 cell m-ws-bottom">
+					<div class="medium-6 small-12 cell m-ws-bottom">
 						<!-- <img src="{{site.url}}/assets/img/reload.png" class="xs-ws-bottom"> -->
-						<div class="bkc bold">Crypto Plants vs Zombies | Code School</div>
-						<div class="s">Interactive Code School for onboarding newcomers to the Tezos Ecosystem</div>
+						<div class="bkc bold">Cryptoverse Wars</div>
+						<div class="s">Interactive Code School for onboarding newcomers to the Tezos ecosystem.</div>
 						<a class="ibtn s2" href="https://cryptocodeschool.in/tezos" target="_blank">View Product</a>
 					</div>
-          <div class="medium-4 small-12 cell m-ws-bottom">
+          			<div class="medium-6 small-12 cell m-ws-bottom">
 						<!-- <img src="{{site.url}}/assets/img/reload.png" class="xs-ws-bottom"> -->
 						<div class="bkc bold">YieldScan</div>
-						<div class="s">Aiming to provide high integrity & structured info for @polkadotnetwork. Combines visual analytics + rewards calculation under one hood.</div>
-						<a class="ibtn s2" href="https://polkanalytics.com/#/dashboard" target="_blank">View Product</a>
-					</div><div class="medium-4 small-12 cell m-ws-bottom">
-						<div class="bkc bold">FOAMViz</div>
-						<div class="s">Visualization efforts over FOAM's Token Curated Registry's data</div>
-						<a class="ibtn s2" href="https://foamviz.surge.sh/" target="_blank">View Project</a>
+						<div class="s">Scanning yield on nominated proof-of-stake networks. Starting with Polkadot ecosystem.</div>
+						<a class="ibtn s2" href="https://github.com/buidl-labs/yieldscan-frontend" target="_blank">View Project Repo</a>
 					</div>
 				</div>
 			</div>

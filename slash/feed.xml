@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>BUIDL Labs</title>
+        <description>Building infrastructure for the new decentralized world</description>      
+        <link>https://buidllabs.io</link>
+        <atom:link href="https://buidllabs.io/feed.xml" rel="self" type="application/rss+xml" />
+        
+    </channel>
+</rss>
