@@ -66,8 +66,8 @@ description: Building infrastructure for the new decentralized world
 						<img src="{{site.url}}/assets/img/logo/polka.svg" class="show-for-medium b-ws-top">
 					</div>
 					<div class="cell cell-block text-center">
-						<img src="{{site.url}}/assets/img/logo/tezos.jpg" class="show-for-small-only img-p m-ws-top">
-						<img src="{{site.url}}/assets/img/logo/tezos.jpg" class="show-for-medium img-p b-ws-top">
+						<img src="{{site.url}}/assets/img/logo/tezos_new.jpg" class="show-for-small-only img-p m-ws-top">
+						<img src="{{site.url}}/assets/img/logo/tezos_new.jpg" class="show-for-medium img-p b-ws-top">
 					</div>
 					<div class="cell cell-block">
 						<img src="{{site.url}}/assets/img/logo/zcash.png" class="show-for-small-only img-p s-ws-top" style="margin-top: 1.6em">
