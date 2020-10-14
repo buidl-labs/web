@@ -99,6 +99,33 @@ description: Building infrastructure for the new decentralized world
 		</div>
 	</div>
 </div> -->
+<div class="wbg">
+	<div class="grid-container">
+		<div class="grid-x align-center">
+			<div class="small-12 large-6 medium-8 medium-centered cell m-ws-top">
+				<h4 class="dbc bold">Products for the decentralized space:</h4>
+			</div>
+		</div>
+		<div class="grid-x align-center">
+			<div class="small-12 large-8 medium-8 medium-centered cell s-ws-top">
+				<div class="grid-x grid-padding-x">
+					<div class="medium-6 small-12 cell m-ws-bottom">
+						<!-- <img src="{{site.url}}/assets/img/reload.png" class="xs-ws-bottom"> -->
+						<div class="bkc bold">Cryptoverse Wars</div>
+						<div class="s">Interactive Code School for onboarding newcomers to the Tezos ecosystem.</div>
+						<a class="ibtn s2" href="https://cryptocodeschool.in/tezos" target="_blank">View Product</a>
+					</div>
+          			<div class="medium-6 small-12 cell m-ws-bottom">
+						<!-- <img src="{{site.url}}/assets/img/reload.png" class="xs-ws-bottom"> -->
+						<div class="bkc bold">YieldScan</div>
+						<div class="s">Scanning yield on nominated proof-of-stake networks. Starting with Polkadot ecosystem.</div>
+						<a class="ibtn s2" href="https://github.com/buidl-labs/yieldscan-frontend" target="_blank">View Project Repo</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
 <div class="b1bg">
 	<div class="grid-container">
 		<div class="grid-x align-center">
@@ -141,33 +168,6 @@ description: Building infrastructure for the new decentralized world
 						<div class="bkc bold">Polkadot Parachains Indexer</div>
 						<div class="s">Data indexer and API for parachains inside Polkadot ecosystem.</div>
 						<a class="ibtn s2" href="https://foamviz.surge.sh/" target="_blank">View Project</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<div class="wbg">
-	<div class="grid-container">
-		<div class="grid-x align-center">
-			<div class="small-12 large-6 medium-8 medium-centered cell m-ws-top">
-				<h4 class="dbc bold">Products for the decentralized space:</h4>
-			</div>
-		</div>
-		<div class="grid-x align-center">
-			<div class="small-12 large-8 medium-8 medium-centered cell s-ws-top">
-				<div class="grid-x grid-padding-x">
-					<div class="medium-6 small-12 cell m-ws-bottom">
-						<!-- <img src="{{site.url}}/assets/img/reload.png" class="xs-ws-bottom"> -->
-						<div class="bkc bold">Cryptoverse Wars</div>
-						<div class="s">Interactive Code School for onboarding newcomers to the Tezos ecosystem.</div>
-						<a class="ibtn s2" href="https://cryptocodeschool.in/tezos" target="_blank">View Product</a>
-					</div>
-          			<div class="medium-6 small-12 cell m-ws-bottom">
-						<!-- <img src="{{site.url}}/assets/img/reload.png" class="xs-ws-bottom"> -->
-						<div class="bkc bold">YieldScan</div>
-						<div class="s">Scanning yield on nominated proof-of-stake networks. Starting with Polkadot ecosystem.</div>
-						<a class="ibtn s2" href="https://github.com/buidl-labs/yieldscan-frontend" target="_blank">View Project Repo</a>
 					</div>
 				</div>
 			</div>
